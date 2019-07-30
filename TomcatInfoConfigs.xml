@@ -1,0 +1,16 @@
+<application>
+  <component name="TomcatInfoConfigs">
+    <option name="current">
+      <TomcatInfo>
+        <option name="path" value="$USER_HOME$/IntelliJProject/makel" />
+      </TomcatInfo>
+    </option>
+    <option name="tomcatInfos">
+      <list>
+        <TomcatInfo>
+          <option name="path" value="$USER_HOME$/IntelliJProject/makel" />
+        </TomcatInfo>
+      </list>
+    </option>
+  </component>
+</application>
